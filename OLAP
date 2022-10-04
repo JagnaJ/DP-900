@@ -1,0 +1,3 @@
+Online analytical processing (OLAP) is a technology that organizes large business databases and supports complex analysis.
+It can be used to perform complex analytical queries without negatively affecting transactional systems.
+Reference: https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/online-analytical-processing
