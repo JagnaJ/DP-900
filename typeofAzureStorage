@@ -1,0 +1,18 @@
+Azure Files enables you to set up highly available network file shares that can be accessed by using
+the standard Server Message Block (SMB) protocol. That means that multiple VMs can share the same files
+with both read and write access.
+Reference: https://azure.microsoft.com/en-in/services/storage/files/
+
+
+
+Other options are not correct.
+
+Option queue  - Azure Queue service is used to store and retrieve messages, so it's not a valid option.
+
+
+
+Option table  -  Table storage is used to store NoSQL data in tabular format, so it's not a valid option.
+
+
+
+Option blob  - Blob storage doesn't support shared folders, so it's not a valid option.
