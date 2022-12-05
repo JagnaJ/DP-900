@@ -1,0 +1,5 @@
+You can classify data as structured, semi-structured, or unstructured.
+Structured data is data that adheres to a fixed schema, so all of the data has the same fields or properties. 
+Most commonly, the schema for structured data entities is tabular - in other words, the data is represented in one or more tables that
+consist of rows to represent each instance of a data entity, and columns to represent attributes of the entity. 
+For example, the following image shows tabular data representations for Customer and Product entities.
