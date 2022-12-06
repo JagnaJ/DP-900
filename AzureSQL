@@ -1,0 +1,15 @@
+Azure SQL is the collective name for a family of relational database solutions based on the Microsoft SQL Server database engine.
+Specific Azure SQL services include:
+
+Azure SQL Database – a fully managed platform-as-a-service (PaaS) database hosted in Azure
+Azure SQL Managed Instance – a hosted instance of SQL Server with automated maintenance, which allows more flexible configuration
+than Azure SQL DB but with more administrative responsibility for the owner.
+Azure SQL VM – a virtual machine with an installation of SQL Server, allowing maximum configurability with full management responsibility.
+Database administrators typically provision and manage Azure SQL database systems to support line of business (LOB) applications
+that need to store transactional data.
+
+Data engineers may use Azure SQL database systems as sources for data pipelines that perform extract, transform, and load (ETL)
+operations to ingest the transactional data into an analytical system.
+
+Data analysts may query Azure SQL databases directly to create reports, though in large organizations the data is generally 
+combined with data from other sources in an analytical data store to support enterprise analytics.
