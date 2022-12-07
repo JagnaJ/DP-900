@@ -1,0 +1,3 @@
+1. Create External data source - External data sources are used to connect to storage accounts. 
+2. Create an External File Format - Creates an external file format object that defines external data stored in Azure Blob Storage or Azure Data Lake Storage.
+Creating an external file format is a prerequisite for creating an external table. 
