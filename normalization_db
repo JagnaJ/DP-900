@@ -7,3 +7,15 @@ Third Normal Form (3 NF)
 Boyce Codd Normal Form or Fourth Normal Form ( BCNF or 4 NF)
 Fifth Normal Form (5 NF)
 Sixth Normal Form (6 NF)
+
+
+Normalization is a term used by database professionals for a schema design process that minimizes data duplication and enforces data integrity.
+
+While there are many complex rules that define the process of refactoring data into various levels (or forms) of normalization,
+a simple definition for practical purposes is:
+
+1. Separate each entity into its own table.
+2. Separate each discrete attribute into its own column.
+3. Uniquely identify each entity instance (row) using a primary key.
+4. Use foreign key columns to link related entities.
+To understand the core principles of normalization, suppose the following table represents a spreadsheet that a company uses to track its sales.
